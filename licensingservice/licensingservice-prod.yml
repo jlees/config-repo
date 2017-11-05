@@ -12,3 +12,4 @@ spring.jpa.properties.hibernate.dialect: "org.hibernate.dialect.PostgreSQLDialec
 redis.server: "spmia-tmx-redis-dev.8lqyfh.0001.use1.cache.amazonaws.com"
 redis.port: "6379"
 signing.key: "345345fsdfsf5345"
+
